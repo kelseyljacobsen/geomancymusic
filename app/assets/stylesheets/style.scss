@@ -128,7 +128,7 @@ footer {
   line-height: 1.428;
   font-size: 14px;
   text-decoration: none;
-  background-color: transparent;
+  background-color: #1D1D1C;
   width: 94%;
   height: 50px;
   margin: 0 3%;
@@ -302,9 +302,9 @@ iframe {
   width: 400px;
   margin-bottom: 30px;
   unicode-bidi:bidi-override;
-  max-height: 83vh;
+  max-height: 100vh;
   overflow-y: scroll;
-  margin-left: 29px;
+  margin-left: 35px;
 }
 
 .tweet {
