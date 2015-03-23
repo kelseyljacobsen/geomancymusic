@@ -120,7 +120,7 @@ a:hover {
   margin-bottom: -70px; 
 }
 
-footer {
+#footer1 {
   position: fixed;
   bottom: 0;
   color: rgb(139,139,139);
@@ -133,6 +133,19 @@ footer {
   height: 50px;
   margin: 0 3%;
   border-top: 1px solid #979797;
+  z-index: 2;
+}
+
+#footer2 {
+  position: fixed;
+  bottom: 0;
+  color: rgb(139,139,139);
+  text-decoration: none;
+  background-color: #1D1D1C;
+  width: 100%;
+  height: 50px;
+  margin: 0 3%;
+  z-index: 1;
 }
 
 /*SOUNDCLOUD STYLES****************************************************************************/
